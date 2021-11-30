@@ -1,4 +1,7 @@
 # AIDI-1100-Project
+
+AIDI_1100_01_FINAL_PROJECT_GROUP_2.ipynb contains the final code.
+
 ---
 **Group Number:** 2
 
